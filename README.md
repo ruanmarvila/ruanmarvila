@@ -18,6 +18,14 @@ Me chamo Ruan Carlos, tenho 19 anos e sou natural do Espírito Santo. Atualmente
 />
 <img
   align="left"
+  alt="FastAPI"
+  title="FastAPI"
+  width="30px"
+  style="padding-rigth: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"    
+/>
+<img
+  align="left"
   alt="SQLite"
   title="SQLite"
   width="30px"
