@@ -10,6 +10,22 @@ Me chamo Ruan Carlos, tenho 19 anos e sou natural do Espírito Santo. Atualmente
 
 <img
   align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-rigth: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+  align="left"
+  alt="Spring"
+  title="Spring"
+  width="30px"
+  style="padding-rigth: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+  align="left"
   alt="Python"
   title="Python"
   width="30px"
@@ -34,11 +50,11 @@ Me chamo Ruan Carlos, tenho 19 anos e sou natural do Espírito Santo. Atualmente
 />
 <img 
   align="left"
-  alt="MySQL"
-  title="MySQL"
+  alt="PostgreSQL"
+  title="PostgreSQL"
   width="30px"
   style="padding-rigth: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
           
           
